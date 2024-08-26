@@ -10,22 +10,6 @@
         "home_url": "/",
         "items": [
             {
-                "url": "/get_started/zh/",
-                "label": "安装使用",
-                "position": "left"
-            },
-            {
-                "url": "/blog/",
-                "label": "博客",
-                "position": "left"
-            },
-            {
-                "url": "https://github.com/neutree/teedoc",
-                "label": "github",
-                "target": "_blank",
-                "position": "right"
-            },
-            {
                 "id": "language",
                 "label": "Language: ",
                 "position": "right",
@@ -39,13 +23,9 @@
                 "label": "链接",
                 "items": [
                     {
-                        "label": "使用 teedoc 构建",
-                        "url": "https://teedoc.neucrack.com",
+                        "label": "TrollAura卡网",
+                        "url": "https://shop.trollaura.top",
                         "target": "_blank"
-                    },
-                    {
-                        "label": "网站地图",
-                        "url": "/sitemap.xml"
                     }
                 ]
             },
